@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pickle5  # 'pickle' is part of Python's standard library, but 'pickle5' might be needed for compatibility
+sqlite3  # Usually part of Python's standard library, no need to install separately
+bcrypt
+google-generativeai
+catboost
+scikit-learn
+xgboost
